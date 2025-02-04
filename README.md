@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @SofianeAlla
-- 👀 I’m interested in AI for Physics
+- Hi, I’m @SofianeAlla
+- I’m interested in AI for Physics
