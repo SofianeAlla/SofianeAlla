@@ -1,2 +1,2 @@
 - Hi, I’m @SofianeAlla
-- I’m interested in AI for Physics
+- I’m interested in AI for Physics and building enterprise-grade ML applications to solve the hardest problems on earth
